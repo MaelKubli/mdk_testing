@@ -2577,7 +2577,7 @@ User_id,Last_Name,First_Name,Canton,Party,Fraction,Akteur,Year,Week,Twitter_Succ
 968401772732735488,Campell,Duri,Graubuenden,bÜrgerlich-demokratische partei schweiz,NA,Nationalrat,2019,15,0
 14273050,,,,,NA,Neue Zürcher Zeitung,2019,16,5.98013941195182
 202985146,,,,,NA,Tagesanzeiger,2019,16,5.97387854975635
-17864468,,,,,,Schweizer Radio und Fernsehen,2019,16,3.98200542243363
+17864468,,,,,NA,Schweizer Radio und Fernsehen,2019,16,3.98200542243363
 15786941,,,,,NA,20 Minuten,2019,16,5.57015327518443
 172375021,,,,christlichdemokratische volkspartei der schweiz,CVP-FRAKTION,Christlichdemokratische Partei,2019,16,5.06669940291917
 39250641,,,,fdp.die liberalen,FDP-LIBERALE FRAKTION,FDP-Die Liberalen,2019,16,3.89842315618175
@@ -2603,17 +2603,17 @@ User_id,Last_Name,First_Name,Canton,Party,Fraction,Akteur,Year,Week,Twitter_Succ
 107053461,Marti,Min,Zuerich,sozialdemokratische partei der schweiz,SOZIALDEMOKRATISCHE FRAKTION,Parliamentarian,2019,16,4.93004564974921
 3291242279,Pfister,Gerhard,Zug,christlichdemokratische volkspartei der schweiz,CVP-FRAKTION,Parliamentarian,2019,16,5.25496864840118
 50444931,Wasserfallen,Christian,Bern,fdp.die liberalen,FDP-LIBERALE FRAKTION,Parliamentarian,2019,16,3.73161007244358
-190944081,Rickli,Natalie,Zuerich,schweizerische volkspartei,,Nationalrat,2019,16,4.456573580112
+190944081,Rickli,Natalie,Zuerich,schweizerische volkspartei,NA,Nationalrat,2019,16,4.456573580112
 3165953063,,,,,NA,Die Bundesversammlung — Das Schweizer Parlament,2019,16,4.73889473003568
 701223252,,,,,NA,"Eidgenössisches Departement für Verteidigung, Bevölkerungsschutz und Sport",2019,16,4.7503434570768
-50262858,Romano,Marco,Tessin,christlichdemokratische volkspartei der schweiz,,Nationalrat,2019,16,4.19889072275768
+50262858,Romano,Marco,Tessin,christlichdemokratische volkspartei der schweiz,NA,Nationalrat,2019,16,4.19889072275768
 206113899,,,,,NA,Schweizerischer Gewerkschaftsbund,2019,16,4.25167991971914
 14077586,Girod,Bastien,Zuerich,grÜne partei der schweiz,GRÜNE FRAKTION,Parliamentarian,2019,16,4.6895860928057
 26531313,Reimann,Lukas,St. Gallen,schweizerische volkspartei,FRAKTION DER SCHWEIZERISCHEN VOLKSPARTEI,Parliamentarian,2019,16,4.51594387818945
 607353825,Marra,Ada,Waadt,sozialdemokratische partei der schweiz,SOZIALDEMOKRATISCHE FRAKTION,Parliamentarian,2019,16,4.58504946174576
 847717320,Carobbio,Marina,Tessin,sozialdemokratische partei der schweiz,SOZIALDEMOKRATISCHE FRAKTION,Parliamentarian,2019,16,4.41220808507693
 14675346,Glättli,Balthasar,Zuerich,grÜne partei der schweiz,GRÜNE FRAKTION,Parliamentarian,2019,16,4.95135387607805
-406232148,Reynard,Mathias,Wallis,sozialdemokratische partei der schweiz,,Nationalrat,2019,16,3.56673442201379
+406232148,Reynard,Mathias,Wallis,sozialdemokratische partei der schweiz,NA,Nationalrat,2019,16,3.56673442201379
 157431387,Sommaruga,Carlo,Genf,sozialdemokratische partei der schweiz,SOZIALDEMOKRATISCHE FRAKTION,Parliamentarian,2019,16,4.49605612388135
 304379532,Noser,Ruedi,Zuerich,fdp.die liberalen,FDP-LIBERALE FRAKTION,Parliamentarian,2019,16,2.23201475041753
 1052528581,Nussbaumer,Eric,Basel-Landschaft,sozialdemokratische partei der schweiz,SOZIALDEMOKRATISCHE FRAKTION,Parliamentarian,2019,16,4.30784538649956
@@ -2621,9 +2621,9 @@ User_id,Last_Name,First_Name,Canton,Party,Fraction,Akteur,Year,Week,Twitter_Succ
 323221890,,,,,NA,Schweizer Bauernverband,2019,16,4.33590788425401
 350198606,Pantani,Roberta,Tessin,lega dei ticinesi,FRAKTION DER SCHWEIZERISCHEN VOLKSPARTEI,Parliamentarian,2019,16,4.21172311511596
 778644518,Nordmann,Roger,Waadt,sozialdemokratische partei der schweiz,SOZIALDEMOKRATISCHE FRAKTION,Parliamentarian,2019,16,4.08115007622595
-991720068,Regazzi,Fabio,Tessin,christlichdemokratische volkspartei der schweiz,,Nationalrat,2019,16,4.03977351705095
+991720068,Regazzi,Fabio,Tessin,christlichdemokratische volkspartei der schweiz,NA,Nationalrat,2019,16,4.03977351705095
 761741430,Landolt,Martin,Glarus,bÜrgerlich-demokratische partei schweiz,FRAKTION BD,Parliamentarian,2019,16,3.54373636157161
-35465127,Hiltpold,Hugues,Genf,fdp.die liberalen,,Nationalrat,2019,16,1.90216692987708
+35465127,Hiltpold,Hugues,Genf,fdp.die liberalen,NA,Nationalrat,2019,16,1.90216692987708
 168790724,,,,schweizerische volkspartei,FRAKTION DER SCHWEIZERISCHEN VOLKSPARTEI,Schweizerische Volkspartei,2019,16,4.85509768846131
 264811652,Trede,Aline,Bern,grÜne partei der schweiz,GRÜNE FRAKTION,Parliamentarian,2019,16,4.03273093989048
 1095889302,Molina,Fabian,Zuerich,sozialdemokratische partei der schweiz,SOZIALDEMOKRATISCHE FRAKTION,Parliamentarian,2019,16,3.78221615983156
@@ -2632,13 +2632,13 @@ User_id,Last_Name,First_Name,Canton,Party,Fraction,Akteur,Year,Week,Twitter_Succ
 1940472746,Béglé,Claude,Waadt,christlichdemokratische volkspartei der schweiz,CVP-FRAKTION,Parliamentarian,2019,16,3.07853378795068
 280789941,Aebischer,Matthias,Bern,sozialdemokratische partei der schweiz,SOZIALDEMOKRATISCHE FRAKTION,Parliamentarian,2019,16,2.94108451856142
 2882434546,Dobler,Marcel,St. Gallen,fdp.die liberalen,FDP-LIBERALE FRAKTION,Parliamentarian,2019,16,4.43463602869395
-214032204,,,,,,Eidgenössisches Departement des Innern,2019,16,2.95636928187366
+214032204,,,,,NA,Eidgenössisches Departement des Innern,2019,16,2.95636928187366
 804958800,Lombardi,Filippo,Tessin,christlichdemokratische volkspartei der schweiz,CVP-FRAKTION,Parliamentarian,2019,16,4.51324679704359
 3070292500,Fiala,Doris,Zuerich,fdp.die liberalen,FDP-LIBERALE FRAKTION,Parliamentarian,2019,16,4.5168565832242
 1530247224,Rytz,Regula,Bern,grÜne partei der schweiz,GRÜNE FRAKTION,Parliamentarian,2019,16,4.46422714732388
 226922317,Markwalder,Christa,Bern,fdp.die liberalen,FDP-LIBERALE FRAKTION,Parliamentarian,2019,16,4.6337346100843
-2965582641,,,,,,"Eidgenössisches Departement für Wirtschaft, Bildung und Forschung",2019,16,0
-72560162,Amherd,Viola,Wallis,christlichdemokratische volkspartei der schweiz,,Nationalrat,2019,16,2.74781359429502
+2965582641,,,,,NA,"Eidgenössisches Departement für Wirtschaft, Bildung und Forschung",2019,16,0
+72560162,Amherd,Viola,Wallis,christlichdemokratische volkspartei der schweiz,NA,Nationalrat,2019,16,2.74781359429502
 385293664,Steinemann,Barbara,Zuerich,schweizerische volkspartei,FRAKTION DER SCHWEIZERISCHEN VOLKSPARTEI,Parliamentarian,2019,16,4.8831808921145
 463149099,Grossen,Jürg,Bern,grÜnliberale partei,GRÜNLIBERALE FRAKTION,Parliamentarian,2019,16,3.89419770657648
 1280965525,Gutjahr,Diana,Thurgau,schweizerische volkspartei,FRAKTION DER SCHWEIZERISCHEN VOLKSPARTEI,Parliamentarian,2019,16,4.35223362461963
@@ -2651,9 +2651,9 @@ User_id,Last_Name,First_Name,Canton,Party,Fraction,Akteur,Year,Week,Twitter_Succ
 278262326,Barazzone,Guillaume,Genf,christlichdemokratische volkspartei der schweiz,CVP-FRAKTION,Parliamentarian,2019,16,4.20481034866111
 3257088023,Arslan,Sibel,Basel-Stadt,grÜne (basels starke alternative),GRÜNE FRAKTION,Parliamentarian,2019,16,4.76509013027145
 2973344741,,,,,NA,Eidgenössisches Justiz- und Polizeidepartement,2019,16,4.06404063026343
-164610359,,,,,,Sante Suisse,2019,16,4.12736186682145
+164610359,,,,,NA,Sante Suisse,2019,16,4.12736186682145
 40872955,Levrat,Christian,Freiburg,sozialdemokratische partei der schweiz,SOZIALDEMOKRATISCHE FRAKTION,Parliamentarian,2019,16,4.29195720279389
-619225869,Derder,Fathi,Waadt,fdp.die liberalen,,Nationalrat,2019,16,4.37893684413469
+619225869,Derder,Fathi,Waadt,fdp.die liberalen,NA,Nationalrat,2019,16,4.37893684413469
 873945156,Köppel,Roger,Zuerich,schweizerische volkspartei,FRAKTION DER SCHWEIZERISCHEN VOLKSPARTEI,Parliamentarian,2019,16,5.31314508476489
 780565772,Munz,Martina,Schaffhausen,sozialdemokratische partei der schweiz,SOZIALDEMOKRATISCHE FRAKTION,Parliamentarian,2019,16,4.23289799648899
 21436172,Wermuth,Cédric,Aargau,sozialdemokratische partei der schweiz,SOZIALDEMOKRATISCHE FRAKTION,Parliamentarian,2019,16,5.38600435003291
@@ -2664,7 +2664,7 @@ User_id,Last_Name,First_Name,Canton,Party,Fraction,Akteur,Year,Week,Twitter_Succ
 1360306513,Bulliard-Marbach,Christine,Freiburg,christlichdemokratische volkspartei der schweiz,CVP-FRAKTION,Parliamentarian,2019,16,4.21759303767794
 2696249536,Friedl,Claudia,St. Gallen,sozialdemokratische partei der schweiz,SOZIALDEMOKRATISCHE FRAKTION,Parliamentarian,2019,16,3.85860143334885
 2899280753,Schüttel,Ursula,Freiburg,sozialdemokratische partei der schweiz,SOZIALDEMOKRATISCHE FRAKTION,Parliamentarian,2019,16,4.38450218434337
-1690746518,Marti,Samira,Basel-Landschaft,sozialdemokratische partei der schweiz,,Nationalrat,2019,16,4.09897621952472
+1690746518,Marti,Samira,Basel-Landschaft,sozialdemokratische partei der schweiz,NA,Nationalrat,2019,16,4.09897621952472
 706788594954981376,Candinas,Martin,Graubuenden,christlichdemokratische volkspartei der schweiz,CVP-FRAKTION,Parliamentarian,2019,16,3.49647175704289
 187853842,,,,,NA,Schweizer Radio und Fernsehen,2019,16,5.56132234063818
 2948791281,Hardegger,Thomas,Zuerich,sozialdemokratische partei der schweiz,SOZIALDEMOKRATISCHE FRAKTION,Parliamentarian,2019,16,4.26216413416148
@@ -2672,90 +2672,275 @@ User_id,Last_Name,First_Name,Canton,Party,Fraction,Akteur,Year,Week,Twitter_Succ
 716002872,Jauslin,Matthias,Aargau,fdp.die liberalen,FDP-LIBERALE FRAKTION,Parliamentarian,2019,16,4.31883234570138
 3290133496,Engler,Stefan,Graubuenden,christlichdemokratische volkspartei der schweiz,CVP-FRAKTION,Parliamentarian,2019,16,2.2121624105366
 2536865558,Gysi,Barbara,St. Gallen,sozialdemokratische partei der schweiz,SOZIALDEMOKRATISCHE FRAKTION,Parliamentarian,2019,16,2.28679630950339
-155823857,Moret,Isabelle,Waadt,fdp.die liberalen,,Nationalrat,2019,16,1.99191955082973
-316336539,Kutter,Philipp,Zuerich,christlichdemokratische volkspartei der schweiz,,Nationalrat,2019,16,4.21077636628
-2154083999,Ettlin,Erich,Obwalden,christlichdemokratische volkspartei der schweiz,,Staenderat,2019,16,1.87444674380775
-256863130,Addor,Jean-Luc,Wallis,schweizerische volkspartei,,Nationalrat,2019,16,3.43656542000671
-270609583,,,,,,Eidgenössisches Departement für auswärtige Angelegenheiten,2019,16,2.81958255661909
-1017350089,Estermann,Yvette,Luzern,schweizerische volkspartei,,Nationalrat,2019,16,3.98625110337196
+155823857,Moret,Isabelle,Waadt,fdp.die liberalen,NA,Nationalrat,2019,16,1.99191955082973
+316336539,Kutter,Philipp,Zuerich,christlichdemokratische volkspartei der schweiz,NA,Nationalrat,2019,16,4.21077636628
+2154083999,Ettlin,Erich,Obwalden,christlichdemokratische volkspartei der schweiz,NA,Staenderat,2019,16,1.87444674380775
+256863130,Addor,Jean-Luc,Wallis,schweizerische volkspartei,NA,Nationalrat,2019,16,3.43656542000671
+270609583,,,,,NA,Eidgenössisches Departement für auswärtige Angelegenheiten,2019,16,2.81958255661909
+1017350089,Estermann,Yvette,Luzern,schweizerische volkspartei,NA,Nationalrat,2019,16,3.98625110337196
 3302607988,Ammann,Thomas,St. Gallen,christlichdemokratische volkspartei der schweiz,CVP-FRAKTION,Parliamentarian,2019,16,4.31482604274254
 75777484,Hadorn,Philipp,Solothurn,sozialdemokratische partei der schweiz,SOZIALDEMOKRATISCHE FRAKTION,Parliamentarian,2019,16,4.0399514328077
-62798697,Hess,Erich,Bern,schweizerische volkspartei,,Nationalrat,2019,16,3.71519926375308
+62798697,Hess,Erich,Bern,schweizerische volkspartei,NA,Nationalrat,2019,16,3.71519926375308
 2317281625,Roduit,Benjamin,Wallis,christlichdemokratische volkspartei der schweiz,CVP-FRAKTION,Parliamentarian,2019,16,4.04672357687433
 888380018673545216,Egger,Thomas,Wallis,christlichsoziale volkspartei oberwallis,CVP-FRAKTION,Parliamentarian,2019,16,4.43612502141493
-84155033,Zanetti,Roberto,Solothurn,sozialdemokratische partei der schweiz,,Staenderat,2019,16,0
-2832533567,Rieder,Beat,Wallis,christlichdemokratische volkspartei der schweiz,,Staenderat,2019,16,0
-67100346,Heim,Bea,Solothurn,sozialdemokratische partei der schweiz,,Nationalrat,2019,16,0
-546752881,Giezendanner,Ulrich,Aargau,schweizerische volkspartei,,Nationalrat,2019,16,3.63528039106321
-938685108,Ruiz,Rebecca,Waadt,sozialdemokratische partei der schweiz,,Nationalrat,2019,16,3.70178928585368
+84155033,Zanetti,Roberto,Solothurn,sozialdemokratische partei der schweiz,NA,Staenderat,2019,16,0
+2832533567,Rieder,Beat,Wallis,christlichdemokratische volkspartei der schweiz,NA,Staenderat,2019,16,0
+67100346,Heim,Bea,Solothurn,sozialdemokratische partei der schweiz,NA,Nationalrat,2019,16,0
+546752881,Giezendanner,Ulrich,Aargau,schweizerische volkspartei,NA,Nationalrat,2019,16,3.63528039106321
+938685108,Ruiz,Rebecca,Waadt,sozialdemokratische partei der schweiz,NA,Nationalrat,2019,16,3.70178928585368
 2353332248,Töngi,Michael,Luzern,grÜne partei der schweiz,GRÜNE FRAKTION,Parliamentarian,2019,16,4.05430867443628
 3133285757,Salzmann,Werner,Bern,schweizerische volkspartei,FRAKTION DER SCHWEIZERISCHEN VOLKSPARTEI,Parliamentarian,2019,16,2.18555340544508
 219076403,Barrile,Angelo,Zuerich,sozialdemokratische partei der schweiz,SOZIALDEMOKRATISCHE FRAKTION,Parliamentarian,2019,16,4.36439811876494
-4702673004,Schneeberger,Daniela,Basel-Landschaft,fdp.die liberalen,,Nationalrat,2019,16,1.73180468883116
-353662120,Burgherr,Thomas,Aargau,schweizerische volkspartei,,Nationalrat,2019,16,0
+4702673004,Schneeberger,Daniela,Basel-Landschaft,fdp.die liberalen,NA,Nationalrat,2019,16,1.73180468883116
+353662120,Burgherr,Thomas,Aargau,schweizerische volkspartei,NA,Nationalrat,2019,16,0
 442685639,Caroni,Andrea,Appenzell A.-Rh.,fdp.die liberalen,FDP-LIBERALE FRAKTION,Parliamentarian,2019,16,4.25233206331053
 605639477,Grüter,Franz,Luzern,schweizerische volkspartei,FRAKTION DER SCHWEIZERISCHEN VOLKSPARTEI,Parliamentarian,2019,16,2.16552702985185
 109517535,Portmann,Hans-Peter,Zuerich,fdp.die liberalen,FDP-LIBERALE FRAKTION,Parliamentarian,2019,16,4.27862886700509
 3505042877,Frei,Daniel,Zuerich,sozialdemokratische partei der schweiz,SOZIALDEMOKRATISCHE FRAKTION,Parliamentarian,2019,16,3.00087808165486
 3208154031,Nellen,Margret,Bern,sozialdemokratische partei der schweiz,SOZIALDEMOKRATISCHE FRAKTION,Parliamentarian,2019,16,3.00326270728584
 1947128240,Vonlanthen,Beat,Freiburg,christlichdemokratische volkspartei der schweiz,CVP-FRAKTION,Parliamentarian,2019,16,4.08843888990232
-246714911,Graf-Litscher,Edith,Thurgau,sozialdemokratische partei der schweiz,,Nationalrat,2019,16,3.85051553391341
+246714911,Graf-Litscher,Edith,Thurgau,sozialdemokratische partei der schweiz,NA,Nationalrat,2019,16,3.85051553391341
 2869699084,Paganini,Nicolo,St. Gallen,christlichdemokratische volkspartei der schweiz,CVP-FRAKTION,Parliamentarian,2019,16,4.06479901702769
 2913929512,Bertschy,Kathrin,Bern,grÜnliberale partei,GRÜNLIBERALE FRAKTION,Parliamentarian,2019,16,2.20357876669356
-556256043,Sollberger,Sandra,Basel-Landschaft,schweizerische volkspartei,,Nationalrat,2019,16,2.52822969251416
-3130690545,Quadranti,Rosmarie,Zuerich,bÜrgerlich-demokratische partei schweiz,,Nationalrat,2019,16,1.80742677987172
-444935177,Glanzmann-Hunkeler,Ida,Luzern,christlichdemokratische volkspartei der schweiz,,Nationalrat,2019,16,3.37701772037232
+556256043,Sollberger,Sandra,Basel-Landschaft,schweizerische volkspartei,NA,Nationalrat,2019,16,2.52822969251416
+3130690545,Quadranti,Rosmarie,Zuerich,bÜrgerlich-demokratische partei schweiz,NA,Nationalrat,2019,16,1.80742677987172
+444935177,Glanzmann-Hunkeler,Ida,Luzern,christlichdemokratische volkspartei der schweiz,NA,Nationalrat,2019,16,3.37701772037232
 379014467,Pasquier,Liliane,Genf,sozialdemokratische partei der schweiz,SOZIALDEMOKRATISCHE FRAKTION,Parliamentarian,2019,16,2.62188264739567
-2172700965,Bühler,Manfred,Bern,schweizerische volkspartei,,Nationalrat,2019,16,3.29073626330327
-2536784770,Cramer,Robert,Genf,grÜne partei der schweiz,,Staenderat,2019,16,0
-289393019,Chiesa,Marco,Tessin,schweizerische volkspartei,,Nationalrat,2019,16,0
-327254073,Lohr,Christian,Thurgau,christlichdemokratische volkspartei der schweiz,,Nationalrat,2019,16,3.05716447459839
+2172700965,Bühler,Manfred,Bern,schweizerische volkspartei,NA,Nationalrat,2019,16,3.29073626330327
+2536784770,Cramer,Robert,Genf,grÜne partei der schweiz,NA,Staenderat,2019,16,0
+289393019,Chiesa,Marco,Tessin,schweizerische volkspartei,NA,Nationalrat,2019,16,0
+327254073,Lohr,Christian,Thurgau,christlichdemokratische volkspartei der schweiz,NA,Nationalrat,2019,16,3.05716447459839
 815578430,Maire,Jacques-André,Neuenburg,sozialdemokratische partei der schweiz,SOZIALDEMOKRATISCHE FRAKTION,Parliamentarian,2019,16,2.24108602024417
-2860664668,Humbel,Ruth,Aargau,christlichdemokratische volkspartei der schweiz,,Nationalrat,2019,16,4.44200089431986
-529478391,Rechsteiner,Paul,St. Gallen,sozialdemokratische partei der schweiz,,Staenderat,2019,16,4.17469702096228
+2860664668,Humbel,Ruth,Aargau,christlichdemokratische volkspartei der schweiz,NA,Nationalrat,2019,16,4.44200089431986
+529478391,Rechsteiner,Paul,St. Gallen,sozialdemokratische partei der schweiz,NA,Staenderat,2019,16,4.17469702096228
 337729795,Gugger,Niklaus-Samuel,Zuerich,evangelische volkspartei der schweiz,CVP-FRAKTION,Parliamentarian,2019,16,4.28764969685044
 743779500341792768,Graf,Priska,Zuerich,sozialdemokratische partei der schweiz,SOZIALDEMOKRATISCHE FRAKTION,Parliamentarian,2019,16,2.25796416912792
-2226700633,Streiff-Feller,Marianne,Bern,evangelische volkspartei der schweiz,,Nationalrat,2019,16,1.34963737125306
+2226700633,Streiff-Feller,Marianne,Bern,evangelische volkspartei der schweiz,NA,Nationalrat,2019,16,1.34963737125306
 3082560978,Rielle,Laurence,Genf,sozialdemokratische partei der schweiz,SOZIALDEMOKRATISCHE FRAKTION,Parliamentarian,2019,16,2.13274723013349
 365423665,Gössi,Petra,Schwyz,fdp.die liberalen,FDP-LIBERALE FRAKTION,Parliamentarian,2019,16,4.58483144246472
-3428301377,Français,Olivier,Waadt,fdp.die liberalen,,Staenderat,2019,16,3.47159289754171
-627501106,de Buman,Dominique,Freiburg,christlichdemokratische volkspartei der schweiz,,Nationalrat,2019,16,0
+3428301377,Français,Olivier,Waadt,fdp.die liberalen,NA,Staenderat,2019,16,3.47159289754171
+627501106,de Buman,Dominique,Freiburg,christlichdemokratische volkspartei der schweiz,NA,Nationalrat,2019,16,0
 3240586961,Burkart,Thierry,Aargau,fdp.die liberalen,FDP-LIBERALE FRAKTION,Parliamentarian,2019,16,4.43927369933205
 1543019749,Hess,Lorenz,Bern,bÜrgerlich-demokratische partei schweiz,FRAKTION BD,Parliamentarian,2019,16,2.07009675500846
-3246291543,Jositsch,Daniel,Zuerich,sozialdemokratische partei der schweiz,,Staenderat,2019,16,3.12291790477269
-617269323,Graber,Konrad,Luzern,christlichdemokratische volkspartei der schweiz,,Staenderat,2019,16,1.73568032021036
-2991955251,Nidegger,Yves,Genf,schweizerische volkspartei,,Nationalrat,2019,16,3.52505030318524
-271271590,Berberat,Didier,Neuenburg,sozialdemokratische partei der schweiz,,Staenderat,2019,16,0
-2822483402,Genecand,Benoît,Genf,fdp.die liberalen,,Nationalrat,2019,16,2.56866596141186
+3246291543,Jositsch,Daniel,Zuerich,sozialdemokratische partei der schweiz,NA,Staenderat,2019,16,3.12291790477269
+617269323,Graber,Konrad,Luzern,christlichdemokratische volkspartei der schweiz,NA,Staenderat,2019,16,1.73568032021036
+2991955251,Nidegger,Yves,Genf,schweizerische volkspartei,NA,Nationalrat,2019,16,3.52505030318524
+271271590,Berberat,Didier,Neuenburg,sozialdemokratische partei der schweiz,NA,Staenderat,2019,16,0
+2822483402,Genecand,Benoît,Genf,fdp.die liberalen,NA,Nationalrat,2019,16,2.56866596141186
 731908201592045568,Aeschi,Thomas,Zug,schweizerische volkspartei,FRAKTION DER SCHWEIZERISCHEN VOLKSPARTEI,Parliamentarian,2019,16,4.88176109194038
-2449367689,Marchand-Balet,Géraldine,Wallis,christlichdemokratische volkspartei der schweiz,,Nationalrat,2019,16,1.21556280598067
-2982472295,Knecht,Hansjörg,Aargau,schweizerische volkspartei,,Nationalrat,2019,16,3.4558155087885
+2449367689,Marchand-Balet,Géraldine,Wallis,christlichdemokratische volkspartei der schweiz,NA,Nationalrat,2019,16,1.21556280598067
+2982472295,Knecht,Hansjörg,Aargau,schweizerische volkspartei,NA,Nationalrat,2019,16,3.4558155087885
 969185938898345985,Siegenthaler,Heinz,Bern,bÜrgerlich-demokratische partei schweiz,FRAKTION BD,Parliamentarian,2019,16,2.26420849250848
 3221526790,Bäumle,Martin,Zuerich,grÜnliberale partei,GRÜNLIBERALE FRAKTION,Parliamentarian,2019,16,2.36736354284388
-373194785,Borloz,Frédéric,Waadt,fdp.die liberalen,,Nationalrat,2019,16,0
-222903677,Imark,Christian,Solothurn,schweizerische volkspartei,,Nationalrat,2019,16,3.40094965567565
-3096244845,Amaudruz,Céline,Genf,schweizerische volkspartei,,Nationalrat,2019,16,2.35820406697994
+373194785,Borloz,Frédéric,Waadt,fdp.die liberalen,NA,Nationalrat,2019,16,0
+222903677,Imark,Christian,Solothurn,schweizerische volkspartei,NA,Nationalrat,2019,16,3.40094965567565
+3096244845,Amaudruz,Céline,Genf,schweizerische volkspartei,NA,Nationalrat,2019,16,2.35820406697994
 256912714,,,,,NA,Eidgenössisches Departement des Innern,2019,16,2.76851391264869
-906476588983824386,Moser,Tiana,Zuerich,grÜnliberale partei,,Nationalrat,2019,16,2.05491842319664
-3354760547,Glauser-Zufferey,Alice,Waadt,schweizerische volkspartei,,Nationalrat,2019,16,0
-1075730956936466437,,,,,,"Eidgenössisches Departement für Wirtschaft, Bildung und Forschung",2019,16,1.94888471400568
-3064353419,Reimann,Maximilian,Aargau,schweizerische volkspartei,,Nationalrat,2019,16,2.79079311272825
-3301771943,Wehrli,Laurent,Waadt,fdp.die liberalen,,Nationalrat,2019,16,0
-621159422,Carrard,Valérie,Freiburg,sozialdemokratische partei der schweiz,,Nationalrat,2019,16,1.36115549577152
-196646702,Bischof,Pirmin,Solothurn,christlichdemokratische volkspartei der schweiz,,Staenderat,2019,16,4.14039901339875
-3295223895,Comte,Raphaël,Neuenburg,fdp.die liberalen,,Staenderat,2019,16,0
-43504217,Bendahan,Samuel,Waadt,sozialdemokratische partei der schweiz,,Nationalrat,2019,16,4.10535128781689
+906476588983824386,Moser,Tiana,Zuerich,grÜnliberale partei,NA,Nationalrat,2019,16,2.05491842319664
+3354760547,Glauser-Zufferey,Alice,Waadt,schweizerische volkspartei,NA,Nationalrat,2019,16,0
+1075730956936466437,,,,,NA,"Eidgenössisches Departement für Wirtschaft, Bildung und Forschung",2019,16,1.94888471400568
+3064353419,Reimann,Maximilian,Aargau,schweizerische volkspartei,NA,Nationalrat,2019,16,2.79079311272825
+3301771943,Wehrli,Laurent,Waadt,fdp.die liberalen,NA,Nationalrat,2019,16,0
+621159422,Carrard,Valérie,Freiburg,sozialdemokratische partei der schweiz,NA,Nationalrat,2019,16,1.36115549577152
+196646702,Bischof,Pirmin,Solothurn,christlichdemokratische volkspartei der schweiz,NA,Staenderat,2019,16,4.14039901339875
+3295223895,Comte,Raphaël,Neuenburg,fdp.die liberalen,NA,Staenderat,2019,16,0
+43504217,Bendahan,Samuel,Waadt,sozialdemokratische partei der schweiz,NA,Nationalrat,2019,16,4.10535128781689
 1019519323877072896,,,,,NA,Eidgenössisches Departement für auswärtige Angelegenheiten,2019,16,4.94737083801619
-61431883,Brunner,Toni,St. Gallen,schweizerische volkspartei,,Nationalrat,2019,16,0
-2527505330,Heer,Alfred,Zuerich,schweizerische volkspartei,,Nationalrat,2019,16,0
-3063932104,Vogt,Hans-Ueli,Zuerich,schweizerische volkspartei,,Nationalrat,2019,16,0
+61431883,Brunner,Toni,St. Gallen,schweizerische volkspartei,NA,Nationalrat,2019,16,0
+2527505330,Heer,Alfred,Zuerich,schweizerische volkspartei,NA,Nationalrat,2019,16,0
+3063932104,Vogt,Hans-Ueli,Zuerich,schweizerische volkspartei,NA,Nationalrat,2019,16,0
 992672660785172480,Egger,Mike,St. Gallen,schweizerische volkspartei,FRAKTION DER SCHWEIZERISCHEN VOLKSPARTEI,Parliamentarian,2019,16,0
-788078975444713473,Glarner,Andreas,Aargau,schweizerische volkspartei,,Nationalrat,2019,16,0
-2431017296,Hösli,Werner,Glarus,schweizerische volkspartei,,Staenderat,2019,16,0
-350243582,Stamm,Luzi,Aargau,schweizerische volkspartei,,Nationalrat,2019,16,0
-1626089100,Rime,Jean-François,Freiburg,schweizerische volkspartei,,Nationalrat,2019,16,0
-3039132947,Brand,Heinz,Graubuenden,schweizerische volkspartei,,Nationalrat,2019,16,0
-724584142344695808,Buffat,Michaël,Waadt,schweizerische volkspartei,,Nationalrat,2019,16,0
-1018157677,Tuena,Mauro,Zuerich,schweizerische volkspartei,,Nationalrat,2019,16,0
-1077680574,Hurter,Thomas,Schaffhausen,schweizerische volkspartei,,Nationalrat,2019,16,0
-968401772732735488,Campell,Duri,Graubuenden,bÜrgerlich-demokratische partei schweiz,,Nationalrat,2019,16,0
+788078975444713473,Glarner,Andreas,Aargau,schweizerische volkspartei,NA,Nationalrat,2019,16,0
+2431017296,Hösli,Werner,Glarus,schweizerische volkspartei,NA,Staenderat,2019,16,0
+350243582,Stamm,Luzi,Aargau,schweizerische volkspartei,NA,Nationalrat,2019,16,0
+1626089100,Rime,Jean-François,Freiburg,schweizerische volkspartei,NA,Nationalrat,2019,16,0
+3039132947,Brand,Heinz,Graubuenden,schweizerische volkspartei,NA,Nationalrat,2019,16,0
+724584142344695808,Buffat,Michaël,Waadt,schweizerische volkspartei,NA,Nationalrat,2019,16,0
+1018157677,Tuena,Mauro,Zuerich,schweizerische volkspartei,NA,Nationalrat,2019,16,0
+1077680574,Hurter,Thomas,Schaffhausen,schweizerische volkspartei,NA,Nationalrat,2019,16,0
+968401772732735488,Campell,Duri,Graubuenden,bÜrgerlich-demokratische partei schweiz,NA,Nationalrat,2019,16,0
+14273050,,,,,NA,Neue Zürcher Zeitung,2019,18,6.07979211734076
+202985146,,,,,NA,Tagesanzeiger,2019,18,5.74435634825513
+17864468,,,,,,Schweizer Radio und Fernsehen,2019,18,3.48200542243363
+15786941,,,,,NA,20 Minuten,2019,18,5.74231572761595
+172375021,,,,christlichdemokratische volkspartei der schweiz,CVP-FRAKTION,Christlichdemokratische Partei,2019,18,5.10990948808275
+39250641,,,,fdp.die liberalen,FDP-LIBERALE FRAKTION,FDP-Die Liberalen,2019,18,5.05849135351665
+240161502,,,,grÜne partei der schweiz,GRÜNE FRAKTION,Grüne Partei Schweiz,2019,18,5.10258906794119
+40681558,,,,sozialdemokratische partei der schweiz,SOZIALDEMOKRATISCHE FRAKTION,Sozialdemokratische Partei Schweiz,2019,18,5.08289929526004
+323132835,Quadri,Lorenzo,Tessin,lega dei ticinesi,FRAKTION DER SCHWEIZERISCHEN VOLKSPARTEI,Parliamentarian,2019,18,4.73571176050567
+819202189,,,,,NA,Schweizerischer Baumeisterverband,2019,18,4.45335690840402
+127462226,,,,,NA,Schweizerische Bankiervereinigung,2019,18,4.52926352685846
+22799864,,,,grÜnliberale partei,GRÜNLIBERALE FRAKTION,Grünliberale Partei Schweiz,2019,18,5.1580499398475
+33470425,,,,,NA,"Eidgenössisches Departement für Umwelt, Verkehr, Energie und Kommunikation",2019,18,4.41776660073385
+121068845,Zanetti,Claudio,Zuerich,schweizerische volkspartei,FRAKTION DER SCHWEIZERISCHEN VOLKSPARTEI,Parliamentarian,2019,18,5.60194800711703
+485885985,Tornare,Manuel,Genf,sozialdemokratische partei der schweiz,SOZIALDEMOKRATISCHE FRAKTION,Parliamentarian,2019,18,4.99270159414869
+458597614,Müller-Altermatt,Stefan,Solothurn,christlichdemokratische volkspartei der schweiz,CVP-FRAKTION,Parliamentarian,2019,18,4.75161462888348
+262715220,,,,,NA,Schweizerischer Gewerbeverband,2019,18,4.1567982638826
+50047040,Badran,Jacqueline,Zuerich,sozialdemokratische partei der schweiz,SOZIALDEMOKRATISCHE FRAKTION,Parliamentarian,2019,18,5.24645180537444
+93878848,Riklin,Kathy,Zuerich,christlichdemokratische volkspartei der schweiz,CVP-FRAKTION,Parliamentarian,2019,18,4.81257434794932
+56377952,,,,,NA,Economie Suisse,2019,18,4.49271966829207
+226841200,,,,bÜrgerlich-demokratische partei schweiz,FRAKTION BD,Bürgerlich Demokratische Partei Schweiz,2019,18,4.94189884795038
+20442734,Nantermod,Philippe,Wallis,fdp.die liberalen,FDP-LIBERALE FRAKTION,Parliamentarian,2019,18,4.80605325830911
+263582303,Schneider-Schneiter,Elisabeth,Basel-Landschaft,christlichdemokratische volkspartei der schweiz,CVP-FRAKTION,Parliamentarian,2019,18,4.8141381136769
+113616426,Guhl,Bernhard,Aargau,bÜrgerlich-demokratische partei schweiz,FRAKTION BD,Parliamentarian,2019,18,4.66287476918375
+107053461,Marti,Min,Zuerich,sozialdemokratische partei der schweiz,SOZIALDEMOKRATISCHE FRAKTION,Parliamentarian,2019,18,3.75209677404848
+303319566,Schenker,Silvia,Basel-Stadt,sozialdemokratische partei der schweiz,SOZIALDEMOKRATISCHE FRAKTION,Parliamentarian,2019,18,4.60743683132025
+3291242279,Pfister,Gerhard,Zug,christlichdemokratische volkspartei der schweiz,CVP-FRAKTION,Parliamentarian,2019,18,5.08674777162193
+50444931,Wasserfallen,Christian,Bern,fdp.die liberalen,FDP-LIBERALE FRAKTION,Parliamentarian,2019,18,4.66170372221605
+3165953063,,,,,NA,Die Bundesversammlung — Das Schweizer Parlament,2019,18,4.90183311900726
+190944081,Rickli,Natalie,Zuerich,schweizerische volkspartei,FRAKTION DER SCHWEIZERISCHEN VOLKSPARTEI,Parliamentarian,2019,18,5.22960041119804
+701223252,,,,,NA,"Eidgenössisches Departement für Verteidigung, Bevölkerungsschutz und Sport",2019,18,4.80516652529271
+50262858,Romano,Marco,Tessin,christlichdemokratische volkspartei der schweiz,CVP-FRAKTION,Parliamentarian,2019,18,3.97408733960976
+206113899,,,,,NA,Schweizerischer Gewerkschaftsbund,2019,18,4.22728627197225
+14077586,Girod,Bastien,Zuerich,grÜne partei der schweiz,GRÜNE FRAKTION,Parliamentarian,2019,18,3.37739071459744
+607353825,Marra,Ada,Waadt,sozialdemokratische partei der schweiz,SOZIALDEMOKRATISCHE FRAKTION,Parliamentarian,2019,18,2.2681287396142
+26531313,Reimann,Lukas,St. Gallen,schweizerische volkspartei,FRAKTION DER SCHWEIZERISCHEN VOLKSPARTEI,Parliamentarian,2019,18,4.61563225283324
+847717320,Carobbio,Marina,Tessin,sozialdemokratische partei der schweiz,SOZIALDEMOKRATISCHE FRAKTION,Parliamentarian,2019,18,3.08503375253149
+14675346,Glättli,Balthasar,Zuerich,grÜne partei der schweiz,GRÜNE FRAKTION,Parliamentarian,2019,18,5.16984977967022
+406232148,Reynard,Mathias,Wallis,sozialdemokratische partei der schweiz,SOZIALDEMOKRATISCHE FRAKTION,Parliamentarian,2019,18,4.70722734296202
+304379532,Noser,Ruedi,Zuerich,fdp.die liberalen,FDP-LIBERALE FRAKTION,Parliamentarian,2019,18,4.61261178941546
+157431387,Sommaruga,Carlo,Genf,sozialdemokratische partei der schweiz,SOZIALDEMOKRATISCHE FRAKTION,Parliamentarian,2019,18,4.55930020692586
+1052528581,Nussbaumer,Eric,Basel-Landschaft,sozialdemokratische partei der schweiz,SOZIALDEMOKRATISCHE FRAKTION,Parliamentarian,2019,18,4.71310466078249
+123362849,Flach,Beat,Aargau,grÜnliberale partei,GRÜNLIBERALE FRAKTION,Parliamentarian,2019,18,3.5890480137042
+778644518,Nordmann,Roger,Waadt,sozialdemokratische partei der schweiz,SOZIALDEMOKRATISCHE FRAKTION,Parliamentarian,2019,18,5.0895530070749
+323221890,,,,,NA,Schweizer Bauernverband,2019,18,4.3035434171542
+350198606,Pantani,Roberta,Tessin,lega dei ticinesi,FRAKTION DER SCHWEIZERISCHEN VOLKSPARTEI,Parliamentarian,2019,18,4.16485165280756
+761741430,Landolt,Martin,Glarus,bÜrgerlich-demokratische partei schweiz,FRAKTION BD,Parliamentarian,2019,18,4.99720421837312
+991720068,Regazzi,Fabio,Tessin,christlichdemokratische volkspartei der schweiz,CVP-FRAKTION,Parliamentarian,2019,18,4.36021855512736
+168790724,,,,schweizerische volkspartei,FRAKTION DER SCHWEIZERISCHEN VOLKSPARTEI,Schweizerische Volkspartei,2019,18,5.11553791643206
+35465127,Hiltpold,Hugues,Genf,fdp.die liberalen,,Nationalrat,2019,18,1.89119355908497
+264811652,Trede,Aline,Bern,grÜne partei der schweiz,GRÜNE FRAKTION,Parliamentarian,2019,18,2.24404137640681
+1095889302,Molina,Fabian,Zuerich,sozialdemokratische partei der schweiz,SOZIALDEMOKRATISCHE FRAKTION,Parliamentarian,2019,18,2.37653053086324
+227087638,Feri,Yvonne,Aargau,sozialdemokratische partei der schweiz,SOZIALDEMOKRATISCHE FRAKTION,Parliamentarian,2019,18,4.21199179242541
+603431624,Müller,Damian,Luzern,fdp.die liberalen,FDP-LIBERALE FRAKTION,Parliamentarian,2019,18,4.56222352555486
+1940472746,Béglé,Claude,Waadt,christlichdemokratische volkspartei der schweiz,CVP-FRAKTION,Parliamentarian,2019,18,4.35161641637746
+280789941,Aebischer,Matthias,Bern,sozialdemokratische partei der schweiz,SOZIALDEMOKRATISCHE FRAKTION,Parliamentarian,2019,18,3.27950439131706
+2882434546,Dobler,Marcel,St. Gallen,fdp.die liberalen,FDP-LIBERALE FRAKTION,Parliamentarian,2019,18,5.10753923315615
+804958800,Lombardi,Filippo,Tessin,christlichdemokratische volkspartei der schweiz,,Staenderat,2019,18,4.32914243027644
+214032204,,,,,,Eidgenössisches Departement des Innern,2019,18,2.45636928187366
+3070292500,Fiala,Doris,Zuerich,fdp.die liberalen,FDP-LIBERALE FRAKTION,Parliamentarian,2019,18,4.57677957278512
+1530247224,Rytz,Regula,Bern,grÜne partei der schweiz,GRÜNE FRAKTION,Parliamentarian,2019,18,4.6764797711023
+226922317,Markwalder,Christa,Bern,fdp.die liberalen,FDP-LIBERALE FRAKTION,Parliamentarian,2019,18,4.90426095001754
+2965582641,,,,,,"Eidgenössisches Departement für Wirtschaft, Bildung und Forschung",2019,18,0
+385293664,Steinemann,Barbara,Zuerich,schweizerische volkspartei,FRAKTION DER SCHWEIZERISCHEN VOLKSPARTEI,Parliamentarian,2019,18,5.01849896764482
+463149099,Grossen,Jürg,Bern,grÜnliberale partei,GRÜNLIBERALE FRAKTION,Parliamentarian,2019,18,4.93737376059007
+2870723938,Goumaz,Adèle,Waadt,grÜne partei der schweiz,GRÜNE FRAKTION,Parliamentarian,2019,18,5.05697092513824
+72560162,Amherd,Viola,Wallis,christlichdemokratische volkspartei der schweiz,,Nationalrat,2019,18,2.24781359429502
+235081966,Gmür-Schönenberger,Andrea,Luzern,christlichdemokratische volkspartei der schweiz,CVP-FRAKTION,Parliamentarian,2019,18,4.05006330284747
+1280965525,Gutjahr,Diana,Thurgau,schweizerische volkspartei,FRAKTION DER SCHWEIZERISCHEN VOLKSPARTEI,Parliamentarian,2019,18,4.30421066607985
+149008275,Chevalley,Isabelle,Waadt,grÜnliberale partei,GRÜNLIBERALE FRAKTION,Parliamentarian,2019,18,3.85126936674494
+921948812,Wasserfallen,Flavia,Bern,sozialdemokratische partei der schweiz,SOZIALDEMOKRATISCHE FRAKTION,Parliamentarian,2019,18,4.62314368581754
+305027543,Wüthrich,Adrian,Bern,sozialdemokratische partei der schweiz,SOZIALDEMOKRATISCHE FRAKTION,Parliamentarian,2019,18,3.57990181534178
+702420734237396992,,,,,NA,Eidgenössisches Finanzdepartement ,2019,18,4.56157715981242
+278262326,Barazzone,Guillaume,Genf,christlichdemokratische volkspartei der schweiz,CVP-FRAKTION,Parliamentarian,2019,18,4.67713029886638
+3257088023,Arslan,Sibel,Basel-Stadt,grÜne (basels starke alternative),GRÜNE FRAKTION,Parliamentarian,2019,18,4.5344755031722
+2973344741,,,,,NA,Eidgenössisches Justiz- und Polizeidepartement,2019,18,4.50849669168964
+40872955,Levrat,Christian,Freiburg,sozialdemokratische partei der schweiz,SOZIALDEMOKRATISCHE FRAKTION,Parliamentarian,2019,18,3.53906508659013
+164610359,,,,,NA,Santé Suisse,2019,18,3.07829246565046
+873945156,Köppel,Roger,Zuerich,schweizerische volkspartei,FRAKTION DER SCHWEIZERISCHEN VOLKSPARTEI,Parliamentarian,2019,18,5.5419821131335
+619225869,Derder,Fathi,Waadt,fdp.die liberalen,FDP-LIBERALE FRAKTION,Parliamentarian,2019,18,4.76772410207472
+21436172,Wermuth,Cédric,Aargau,sozialdemokratische partei der schweiz,SOZIALDEMOKRATISCHE FRAKTION,Parliamentarian,2019,18,5.4509909680943
+187853842,,,,,NA,Schweizer Radio und Fernsehen,2019,18,5.8607343357507
+780565772,Munz,Martina,Schaffhausen,sozialdemokratische partei der schweiz,SOZIALDEMOKRATISCHE FRAKTION,Parliamentarian,2019,18,4.28978129597416
+3374457514,Graf,Maya,Basel-Landschaft,grÜne partei der schweiz,GRÜNE FRAKTION,Parliamentarian,2019,18,3.10259807612422
+2881577681,Meyer,Mattea,Zuerich,sozialdemokratische partei der schweiz,SOZIALDEMOKRATISCHE FRAKTION,Parliamentarian,2019,18,3.41346551090294
+1307125520,Herzog,Verena,Thurgau,schweizerische volkspartei,FRAKTION DER SCHWEIZERISCHEN VOLKSPARTEI,Parliamentarian,2019,18,4.49843427934739
+2977817361,Kälin,Irène,Aargau,grÜne partei der schweiz,,Nationalrat,2019,18,4.10740207453755
+1360306513,Bulliard-Marbach,Christine,Freiburg,christlichdemokratische volkspartei der schweiz,CVP-FRAKTION,Parliamentarian,2019,18,4.18650575913083
+2696249536,Friedl,Claudia,St. Gallen,sozialdemokratische partei der schweiz,SOZIALDEMOKRATISCHE FRAKTION,Parliamentarian,2019,18,4.47957269975729
+2899280753,Schüttel,Ursula,Freiburg,sozialdemokratische partei der schweiz,SOZIALDEMOKRATISCHE FRAKTION,Parliamentarian,2019,18,4.29614790858999
+1690746518,Marti,Samira,Basel-Landschaft,sozialdemokratische partei der schweiz,SOZIALDEMOKRATISCHE FRAKTION,Parliamentarian,2019,18,2.88328018857595
+706788594954981376,Candinas,Martin,Graubuenden,christlichdemokratische volkspartei der schweiz,CVP-FRAKTION,Parliamentarian,2019,18,3.18969566307984
+1228066279,Masshardt,Nadine,Bern,sozialdemokratische partei der schweiz,SOZIALDEMOKRATISCHE FRAKTION,Parliamentarian,2019,18,4.83685798929785
+2948791281,Hardegger,Thomas,Zuerich,sozialdemokratische partei der schweiz,SOZIALDEMOKRATISCHE FRAKTION,Parliamentarian,2019,18,4.46102219380751
+716002872,Jauslin,Matthias,Aargau,fdp.die liberalen,,Nationalrat,2019,18,1.70583642514902
+3290133496,Engler,Stefan,Graubuenden,christlichdemokratische volkspartei der schweiz,,Staenderat,2019,18,1.90374984459807
+2536865558,Gysi,Barbara,St. Gallen,sozialdemokratische partei der schweiz,SOZIALDEMOKRATISCHE FRAKTION,Parliamentarian,2019,18,4.23759507112378
+155823857,Moret,Isabelle,Waadt,fdp.die liberalen,,Nationalrat,2019,18,4.2677895453997
+2154083999,Ettlin,Erich,Obwalden,christlichdemokratische volkspartei der schweiz,CVP-FRAKTION,Parliamentarian,2019,18,4.47422031816156
+316336539,Kutter,Philipp,Zuerich,christlichdemokratische volkspartei der schweiz,CVP-FRAKTION,Parliamentarian,2019,18,4.25127404799711
+256863130,Addor,Jean-Luc,Wallis,schweizerische volkspartei,FRAKTION DER SCHWEIZERISCHEN VOLKSPARTEI,Parliamentarian,2019,18,3.99218180742664
+3302607988,Ammann,Thomas,St. Gallen,christlichdemokratische volkspartei der schweiz,CVP-FRAKTION,Parliamentarian,2019,18,3.04351385181066
+75777484,Hadorn,Philipp,Solothurn,sozialdemokratische partei der schweiz,SOZIALDEMOKRATISCHE FRAKTION,Parliamentarian,2019,18,4.15564586082158
+270609583,,,,,,Eidgenössisches Departement für auswärtige Angelegenheiten,2019,18,2.31958255661909
+1017350089,Estermann,Yvette,Luzern,schweizerische volkspartei,,Nationalrat,2019,18,3.48625110337196
+62798697,Hess,Erich,Bern,schweizerische volkspartei,,Nationalrat,2019,18,3.21519926375308
+2317281625,Roduit,Benjamin,Wallis,christlichdemokratische volkspartei der schweiz,CVP-FRAKTION,Parliamentarian,2019,18,4.41620329352317
+888380018673545216,Egger,Thomas,Wallis,christlichsoziale volkspartei oberwallis,CVP-FRAKTION,Parliamentarian,2019,18,4.64771189127324
+84155033,Zanetti,Roberto,Solothurn,sozialdemokratische partei der schweiz,,Staenderat,2019,18,0
+2832533567,Rieder,Beat,Wallis,christlichdemokratische volkspartei der schweiz,,Staenderat,2019,18,0
+67100346,Heim,Bea,Solothurn,sozialdemokratische partei der schweiz,,Nationalrat,2019,18,0
+546752881,Giezendanner,Ulrich,Aargau,schweizerische volkspartei,,Nationalrat,2019,18,3.13528039106321
+938685108,Ruiz,Rebecca,Waadt,sozialdemokratische partei der schweiz,,Nationalrat,2019,18,3.20178928585368
+2353332248,Töngi,Michael,Luzern,grÜne partei der schweiz,GRÜNE FRAKTION,Parliamentarian,2019,18,4.65275554999995
+3133285757,Salzmann,Werner,Bern,schweizerische volkspartei,FRAKTION DER SCHWEIZERISCHEN VOLKSPARTEI,Parliamentarian,2019,18,2.22448590237974
+219076403,Barrile,Angelo,Zuerich,sozialdemokratische partei der schweiz,SOZIALDEMOKRATISCHE FRAKTION,Parliamentarian,2019,18,4.5348448881282
+4702673004,Schneeberger,Daniela,Basel-Landschaft,fdp.die liberalen,FDP-LIBERALE FRAKTION,Parliamentarian,2019,18,4.11205392945352
+442685639,Caroni,Andrea,Appenzell A.-Rh.,fdp.die liberalen,FDP-LIBERALE FRAKTION,Parliamentarian,2019,18,4.24665850596494
+353662120,Burgherr,Thomas,Aargau,schweizerische volkspartei,,Nationalrat,2019,18,0
+605639477,Grüter,Franz,Luzern,schweizerische volkspartei,FRAKTION DER SCHWEIZERISCHEN VOLKSPARTEI,Parliamentarian,2019,18,3.3728947404522
+109517535,Portmann,Hans-Peter,Zuerich,fdp.die liberalen,FDP-LIBERALE FRAKTION,Parliamentarian,2019,18,4.25334517263457
+3505042877,Frei,Daniel,Zuerich,sozialdemokratische partei der schweiz,SOZIALDEMOKRATISCHE FRAKTION,Parliamentarian,2019,18,4.3132604202879
+3208154031,Nellen,Margret,Bern,sozialdemokratische partei der schweiz,SOZIALDEMOKRATISCHE FRAKTION,Parliamentarian,2019,18,4.00315733009578
+1947128240,Vonlanthen,Beat,Freiburg,christlichdemokratische volkspartei der schweiz,,Staenderat,2019,18,4.18444651859281
+246714911,Graf-Litscher,Edith,Thurgau,sozialdemokratische partei der schweiz,,Nationalrat,2019,18,2.73447461288047
+2913929512,Bertschy,Kathrin,Bern,grÜnliberale partei,GRÜNLIBERALE FRAKTION,Parliamentarian,2019,18,4.87734112004795
+2869699084,Paganini,Nicolo,St. Gallen,christlichdemokratische volkspartei der schweiz,CVP-FRAKTION,Parliamentarian,2019,18,4.03713357036013
+379014467,Pasquier,Liliane,Genf,sozialdemokratische partei der schweiz,SOZIALDEMOKRATISCHE FRAKTION,Parliamentarian,2019,18,3.09076830009376
+556256043,Sollberger,Sandra,Basel-Landschaft,schweizerische volkspartei,,Nationalrat,2019,18,2.02822969251416
+3130690545,Quadranti,Rosmarie,Zuerich,bÜrgerlich-demokratische partei schweiz,FRAKTION BD,Parliamentarian,2019,18,4.38916162374682
+444935177,Glanzmann-Hunkeler,Ida,Luzern,christlichdemokratische volkspartei der schweiz,CVP-FRAKTION,Parliamentarian,2019,18,4.19395383828762
+2172700965,Bühler,Manfred,Bern,schweizerische volkspartei,,Nationalrat,2019,18,2.79073626330327
+2536784770,Cramer,Robert,Genf,grÜne partei der schweiz,,Staenderat,2019,18,0
+289393019,Chiesa,Marco,Tessin,schweizerische volkspartei,,Nationalrat,2019,18,2.67209228383612
+327254073,Lohr,Christian,Thurgau,christlichdemokratische volkspartei der schweiz,,Nationalrat,2019,18,2.55716447459839
+815578430,Maire,Jacques-André,Neuenburg,sozialdemokratische partei der schweiz,,Nationalrat,2019,18,1.9395079746118
+2860664668,Humbel,Ruth,Aargau,christlichdemokratische volkspartei der schweiz,,Nationalrat,2019,18,3.968884437682
+529478391,Rechsteiner,Paul,St. Gallen,sozialdemokratische partei der schweiz,SOZIALDEMOKRATISCHE FRAKTION,Parliamentarian,2019,18,4.7436600030554
+743779500341792768,Graf,Priska,Zuerich,sozialdemokratische partei der schweiz,SOZIALDEMOKRATISCHE FRAKTION,Parliamentarian,2019,18,4.47391716230458
+337729795,Gugger,Niklaus-Samuel,Zuerich,evangelische volkspartei der schweiz,CVP-FRAKTION,Parliamentarian,2019,18,4.17192433135709
+2226700633,Streiff-Feller,Marianne,Bern,evangelische volkspartei der schweiz,CVP-FRAKTION,Parliamentarian,2019,18,2.22330894292451
+3082560978,Rielle,Laurence,Genf,sozialdemokratische partei der schweiz,SOZIALDEMOKRATISCHE FRAKTION,Parliamentarian,2019,18,2.72350931129297
+365423665,Gössi,Petra,Schwyz,fdp.die liberalen,FDP-LIBERALE FRAKTION,Parliamentarian,2019,18,4.6447951681011
+3428301377,Français,Olivier,Waadt,fdp.die liberalen,,Staenderat,2019,18,2.97159289754171
+627501106,de Buman,Dominique,Freiburg,christlichdemokratische volkspartei der schweiz,,Nationalrat,2019,18,0
+3240586961,Burkart,Thierry,Aargau,fdp.die liberalen,FDP-LIBERALE FRAKTION,Parliamentarian,2019,18,4.45922415463711
+731908201592045568,Aeschi,Thomas,Zug,schweizerische volkspartei,FRAKTION DER SCHWEIZERISCHEN VOLKSPARTEI,Parliamentarian,2019,18,4.92469128702456
+1543019749,Hess,Lorenz,Bern,bÜrgerlich-demokratische partei schweiz,FRAKTION BD,Parliamentarian,2019,18,2.73466345090851
+3246291543,Jositsch,Daniel,Zuerich,sozialdemokratische partei der schweiz,,Staenderat,2019,18,2.62291790477269
+617269323,Graber,Konrad,Luzern,christlichdemokratische volkspartei der schweiz,,Staenderat,2019,18,1.23568032021036
+2991955251,Nidegger,Yves,Genf,schweizerische volkspartei,,Nationalrat,2019,18,3.02505030318524
+271271590,Berberat,Didier,Neuenburg,sozialdemokratische partei der schweiz,,Staenderat,2019,18,0
+969185938898345985,Siegenthaler,Heinz,Bern,bÜrgerlich-demokratische partei schweiz,FRAKTION BD,Parliamentarian,2019,18,2.97802859230284
+2822483402,Genecand,Benoît,Genf,fdp.die liberalen,,Nationalrat,2019,18,2.06866596141186
+2449367689,Marchand-Balet,Géraldine,Wallis,christlichdemokratische volkspartei der schweiz,CVP-FRAKTION,Parliamentarian,2019,18,4.22560749761954
+2982472295,Knecht,Hansjörg,Aargau,schweizerische volkspartei,,Nationalrat,2019,18,4.04883196066634
+3221526790,Bäumle,Martin,Zuerich,grÜnliberale partei,GRÜNLIBERALE FRAKTION,Parliamentarian,2019,18,4.78063810565129
+256912714,,,,,NA,Eidgenössisches Departement des Innern,2019,18,3.59380086871575
+373194785,Borloz,Frédéric,Waadt,fdp.die liberalen,,Nationalrat,2019,18,0
+222903677,Imark,Christian,Solothurn,schweizerische volkspartei,,Nationalrat,2019,18,2.90094965567565
+1075730956936466437,,,,,NA,Eidgenössisches Departement für Wirtschaft,2019,18,4.92263288939982
+1019519323877072896,,,,,NA,Eidgenössisches Departement für auswärtige Angelegenheiten,2019,18,4.70712217384416
+3096244845,Amaudruz,Céline,Genf,schweizerische volkspartei,,Nationalrat,2019,18,1.85820406697994
+906476588983824386,Moser,Tiana,Zuerich,grÜnliberale partei,GRÜNLIBERALE FRAKTION,Parliamentarian,2019,18,2.30522541338475
+3354760547,Glauser-Zufferey,Alice,Waadt,schweizerische volkspartei,,Nationalrat,2019,18,0
+3064353419,Reimann,Maximilian,Aargau,schweizerische volkspartei,FRAKTION DER SCHWEIZERISCHEN VOLKSPARTEI,Parliamentarian,2019,18,1.96239306924787
+3301771943,Wehrli,Laurent,Waadt,fdp.die liberalen,,Nationalrat,2019,18,0
+621159422,Carrard,Valérie,Freiburg,sozialdemokratische partei der schweiz,,Nationalrat,2019,18,0.86115549577152
+196646702,Bischof,Pirmin,Solothurn,christlichdemokratische volkspartei der schweiz,,Staenderat,2019,18,3.64039901339875
+43504217,Bendahan,Samuel,Waadt,sozialdemokratische partei der schweiz,,Nationalrat,2019,18,4.13848005211231
+3295223895,Comte,Raphaël,Neuenburg,fdp.die liberalen,,Staenderat,2019,18,0
+951765794156957696,,,,,NA,DigitalDemocracyLab,2019,18,3.0799603772473
+61431883,Brunner,Toni,St. Gallen,schweizerische volkspartei,,Nationalrat,2019,18,0
+992672660785172480,Egger,Mike,St. Gallen,schweizerische volkspartei,FRAKTION DER SCHWEIZERISCHEN VOLKSPARTEI,Parliamentarian,2019,18,2.80857929449817
+2527505330,Heer,Alfred,Zuerich,schweizerische volkspartei,,Nationalrat,2019,18,0
+3063932104,Vogt,Hans-Ueli,Zuerich,schweizerische volkspartei,,Nationalrat,2019,18,0
+788078975444713473,Glarner,Andreas,Aargau,schweizerische volkspartei,,Nationalrat,2019,18,0
+2431017296,Hösli,Werner,Glarus,schweizerische volkspartei,,Staenderat,2019,18,0
+3039132947,Brand,Heinz,Graubuenden,schweizerische volkspartei,FRAKTION DER SCHWEIZERISCHEN VOLKSPARTEI,Parliamentarian,2019,18,3.85501005255943
+350243582,Stamm,Luzi,Aargau,schweizerische volkspartei,,Nationalrat,2019,18,0
+1626089100,Rime,Jean-François,Freiburg,schweizerische volkspartei,,Nationalrat,2019,18,0
+724584142344695808,Buffat,Michaël,Waadt,schweizerische volkspartei,,Nationalrat,2019,18,0
+1018157677,Tuena,Mauro,Zuerich,schweizerische volkspartei,,Nationalrat,2019,18,0
+1077680574,Hurter,Thomas,Schaffhausen,schweizerische volkspartei,,Nationalrat,2019,18,0
+968401772732735488,Campell,Duri,Graubuenden,bÜrgerlich-demokratische partei schweiz,,Nationalrat,2019,18,0
